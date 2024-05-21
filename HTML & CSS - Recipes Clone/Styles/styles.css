@@ -5,8 +5,12 @@
 
 .encabezado{
     background-image: url("/Images/apple-pie.jpg");
-    background-position: 0 0;
+    height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
-    
+}
+
+.encabezado h1{
+    font-size: 30px;
+    text-align: center;
 }
